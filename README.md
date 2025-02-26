@@ -15,4 +15,3 @@ This project implements **image steganography** using Python and OpenCV. It allo
 - **Algorithm:** Pixel value encoding (LSB-like approach)
 - **Encryption Technique:** Password-based authentication for decryption
 
-## 📂 Project Structure
